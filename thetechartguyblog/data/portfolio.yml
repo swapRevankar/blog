@@ -1,0 +1,17 @@
+portfolioitems:
+  # portfolio category
+  - title: Make Something Wonderful
+    portfolioitem:
+      - name: Tech Art Director at Bully Entertainment
+        image: '/portfolio/Demoreel_Thumbnail.png'
+        link: https://vimeo.com/845372987?share=copy
+        linktext: 'Showreel'
+        description: "Welcome!! I'm thrilled to share some of the exciting projects I worked on during my tenure as a Technical Artist and eventually as the Director of Technical Art(Animation) at Bully Entertainment. I've had the privilege of applying my skills across a range of projects, each offering unique challenges and creative opportunities. Join me on this visual journey as we explore the diverse worlds I helped bring to life."
+        tags:
+          - Maya
+          - Unity
+          - Python
+          - C Sharp
+        status: 'Finished'
+        start: '2016'
+        end: '2023'

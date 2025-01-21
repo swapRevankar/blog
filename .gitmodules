@@ -1,0 +1,7 @@
+[submodule "thetechartguyblog/themes/anatole"]
+	path = thetechartguyblog/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "thetechartguyblog/public"]
+	path = thetechartguyblog/public
+	url = git@github.com:swapRevankar/thetechartguy.github.io.git
+	branch = main
