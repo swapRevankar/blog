@@ -1,17 +1,27 @@
 portfolioitems:
-  # portfolio category
-  - title: Make Something Wonderful
+  - title: Latest Work – StatusPro
+    portfolioitem:
+      - name: Lead Technical Artist at StatusPro
+        image: '/portfolio/SPARK_Reel_Thumbnail.png'
+        link: https://vimeo.com/manage/videos/1084379222
+        linktext: 'Watch Reel'
+        description: "SPARK (Status Pro Animation & Rigging Kit) is a custom Maya toolset I built to streamline retargeting, baking, and FBX export workflows for a professional football simulation game. Part of StatusPro's Emmy-nominated production pipeline."
+        tags:
+          - Maya
+          - MotionBuilder
+          - Mocap
+          - Tools
+          - Python
+
+  - title: Previous Work – Bully Entertainment
     portfolioitem:
       - name: Tech Art Director at Bully Entertainment
-        image: '/portfolio/Demoreel_Thumbnail.png'
+        image: '/portfolio/Bully_Reel_Thumbnail.png'
         link: https://vimeo.com/845372987?share=copy
-        linktext: 'Showreel'
-        description: "Welcome!! I'm thrilled to share some of the exciting projects I worked on during my tenure as a Technical Artist and eventually as the Director of Technical Art(Animation) at Bully Entertainment. I've had the privilege of applying my skills across a range of projects, each offering unique challenges and creative opportunities. Join me on this visual journey as we explore the diverse worlds I helped bring to life."
+        linktext: 'Watch Reel'
+        description: "Showcasing highlights from my time at Bully Entertainment, where I worked across diverse projects as a Technical Artist and later Director of Technical Art. Each project came with unique creative and technical challenges."
         tags:
           - Maya
           - Unity
           - Python
           - C Sharp
-        status: 'Finished'
-        start: '2016'
-        end: '2023'
