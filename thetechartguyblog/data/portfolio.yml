@@ -1,5 +1,5 @@
 portfolioitems:
-  - title: Latest Work – StatusPro
+  - title: StatusPro – SPARK Toolset
     portfolioitem:
       - name: Lead Technical Artist at StatusPro
         image: '/portfolio/SPARK_Reel_Thumbnail.png'
@@ -13,7 +13,7 @@ portfolioitems:
           - Tools
           - Python
 
-  - title: Previous Work – Bully Entertainment
+  - title: Bully Entertainment Projects
     portfolioitem:
       - name: Tech Art Director at Bully Entertainment
         image: '/portfolio/Bully_Reel_Thumbnail.png'
