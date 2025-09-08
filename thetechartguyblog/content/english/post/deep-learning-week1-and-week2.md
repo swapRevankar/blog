@@ -62,7 +62,7 @@ X_train = X_train_flat / 255.
 X_test  = X_test_flat  / 255.
 ```
 
-✅ At this point:  
+At this point:  
 - Training set → `(12288, n_train)`  
 - Test set → `(12288, n_test)`  
 - Values between 0 and 1.
