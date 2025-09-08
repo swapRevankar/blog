@@ -135,9 +135,7 @@ def propagate(w, b, X, Y):
     A = sigmoid(Z)
 
     # cost
-    eps = 1e-15  # avoid log(0)
-    cost = - (1/m) * np.sum(Y*np.log(np.clip(A, eps, 1-eps)) +
-                            (1-Y)*np.log(np.clip(1-A, eps, 1-eps)))
+    cost = -(1/m) * np.sum(Y * np.log(A) + (1 - Y) * np.log(1-A))
 
     # gradients
     dZ = A - Y
