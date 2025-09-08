@@ -116,7 +116,7 @@ We measure how far predictions are from labels and compute gradients for updates
 
 **Math**
 
-- Prediction: \( A = \sigma(w^\top X + b) \)  
+- Prediction: $$ \( A = \sigma(w^\top X + b) \)  $$
 - Cost:
   $$
   J = -\frac{1}{m} \sum_{i=1}^m \Big[y^{(i)} \log A^{(i)} + (1-y^{(i)}) \log(1-A^{(i)})\Big]
