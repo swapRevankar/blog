@@ -1,9 +1,9 @@
 ---
-title: "From Math to Code: Logistic Regression in Neural Networks"
+title: "Logistic Regression with a Neural Network Mindset"
 date: 2025-09-07
 series: ["Deep Learning Specialization"]
 series_weight: 1
-tags: ["coursera", "deeplearning"]
+tags: ["coursera", "deeplearning", "neuralnetworks"]
 math: true
 ---
 

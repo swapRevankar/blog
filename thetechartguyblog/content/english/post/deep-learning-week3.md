@@ -2,7 +2,7 @@
 title: "Planar Data Classification with One Hidden Layer"
 date: 2025-09-15
 series: ["Deep Learning Specialization"]
-series_weight: 3
+series_weight: 2
 tags: ["coursera", "deeplearning", "neuralnetworks"]
 math: true
 ---
